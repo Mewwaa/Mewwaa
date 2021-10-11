@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 👧 Woman<br>
 🔄 Routine : Eat - Sleep - Code - Repeat<br>
 📚 I’m currently learning: C++ and JS<br><br>
-💻 I’m currently working on projects for [Hacktoberfest]<br>
+💻 I’m currently working on projects for [Hacktoberfest](https://hacktoberfest.digitalocean.com/)<br>
 😆 Fun fact: Women can be programmers too<br>
 ❤️ Food + Code + Books = Endless loop<br>
 
@@ -49,10 +49,6 @@ Here are some ideas to get you started:
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"> </code>
   </p><br>
  </div> 
- <div align="center">
-<a href="https://github.com/Mewwaa">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mewwaa&langs_count=6)" />
-</a>
  </div> 
 
 
