@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -->
 
 
-### Hi there 👋 <br>
+Hi there :wave: <br>
 <br>
 ### Facts about me:<br>
 👧 Woman<br>
