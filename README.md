@@ -21,7 +21,16 @@ Here are some ideas to get you started:
 -->
 
 
-### Hi there 👋
+### Hi there 👋 <br>
+<br>
+### Facts about me:<br>
+👧 Woman<br>
+🔄 Routine : Eat - Sleep - Code - Repeat<br>
+📚 I’m currently learning: C++ and JS<br><br>
+💻 I’m currently working on projects for [Hacktoberfest]<br>
+😆 Fun fact: Women can be programmers too<br>
+❤️ Food + Code + Books = Endless loop<br>
+
 <div align="center">
  <a href="https://github.com/Mewwaa">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mewwaa&theme=darcula&show_icons=true" />
@@ -44,16 +53,8 @@ Here are some ideas to get you started:
 <a href="https://github.com/Mewwaa">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mewwaa&langs_count=6)" />
 </a>
-<a href="https://github.com/Mewwaa">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Mewwaa" />
-</a>
  </div> 
 
-### Facts about me:<br>
-👧 She/Her<br>
-🔄 Routine : Eat - Sleep - Code - Repeat<br>
-😆 Fun fact: I CODE<br>
-❤️ Food + Code + Books = Endless loop<br>
 
 ------
 
