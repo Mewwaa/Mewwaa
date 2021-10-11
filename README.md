@@ -33,7 +33,7 @@ Here are some ideas to get you started:
  
  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;My Zone
  <br>
-<p align="left">
+<p align="center">
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"> </code> 
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
