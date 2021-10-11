@@ -31,21 +31,21 @@ Here are some ideas to get you started:
 </a>
 <br>
  
- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;My Zone
+### My Zone:
  <br>
 <p align="center">
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"> </code> 
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"> </code>
-  </p>
+  </p><br>
  </div> 
  <div align="center">
 <a href="https://github.com/Mewwaa">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravanatirtha&langs_count=6)" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mewwaa&langs_count=6)" />
 </a>
 <a href="https://github.com/Mewwaa">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=shravanatirtha" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Mewwaa" />
 </a>
  </div> 
 
