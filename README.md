@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -->
 
 
-Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" <br>
+Hi there 👋 <br>
 <br>
 ### Facts about me:<br>
 👧 Woman<br>
