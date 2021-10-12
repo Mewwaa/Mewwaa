@@ -36,7 +36,7 @@ Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mewwaa&show_icons=true&theme=buefy-dark" />
 </a>
 <a href="https://github.com/Mewwaa">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mewwaa&theme=buefy-dark" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mewwaa" />
 </a>
 <br>
  
