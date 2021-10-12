@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -->
 
 
-Hi there :wave: <br>
+Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" <br>
 <br>
 ### Facts about me:<br>
 👧 Woman<br>
@@ -33,7 +33,7 @@ Hi there :wave: <br>
 <br><br>
 <div align="center">
  <a href="https://github.com/Mewwaa">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mewwaa&theme=buefy-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mewwaa&show_icons=true&locale=en" />
 </a>
 <a href="https://github.com/Mewwaa">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mewwaa&theme=buefy-dark" />
