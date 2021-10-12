@@ -36,7 +36,7 @@ Hi there :wave: <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mewwaa&theme=darcula&show_icons=true" />
 </a>
 <a href="https://github.com/Mewwaa">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shravanatirtha&theme=darcula" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mewwaa&theme=darcula" />
 </a>
 <br>
  
