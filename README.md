@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 Hi there 👋 <br>
 <br>
 ### Facts about me:<br>
-👧 Woman<br>
 🔄 Routine : Eat - Sleep - Code - Repeat<br>
 📚 I’m currently learning: C++ and JS<br>
 💻 I’m currently working on projects for <a href="https://hacktoberfest.digitalocean.com/">Hacktoberfest</a><br>
